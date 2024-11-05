@@ -7,10 +7,7 @@
 
 
 
-class eje4 {
-
-};
-
+void ejer4();
 
 
 #endif //EJE4_H

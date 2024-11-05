@@ -7,10 +7,7 @@
 
 
 
-class eje2 {
-
-};
-
+void eje2();
 
 
 #endif //EJE2_H

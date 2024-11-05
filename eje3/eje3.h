@@ -6,10 +6,7 @@
 #define EJE3_H
 
 
-
-class eje3 {
-
-};
+void eje3();
 
 
 

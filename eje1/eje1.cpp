@@ -16,11 +16,11 @@ void eje1(){ //pra llamar mas tarde al ejercicio 1
     double numero;
 cout << "Ingrese un numero: "<<endl;
 cin >> numero;
-if (numero > 0){
+if (numero > 0){ //compureba que el numero sea positivo porque siginidica que es mayo que 0
     cout << "El numero es positivo." << endl;
-} else if (numero < 0){
+} else if (numero < 0){ //comprueba que el numero sea negativo porque significa que es menor que 0
     cout << "El numero es negativo." << endl;
 } else {
-    cout << "El numero es cero." << endl;
+    cout << "El numero es cero." << endl; //si no es ni positivo ni negativo es cero
 }
 }

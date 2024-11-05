@@ -9,11 +9,11 @@ void eje4(){
 double precio1;
 double precio2;
 double precio3;
-cout << "Ingrese el precio del primer artículo: "<<endl;
+cout << "Ingrese el precio del primer articulo: "<<endl;
 cin >> precio1;
-cout << "Ingrese el precio del segundo artículo: "<<endl;
+cout << "Ingrese el precio del segundo articulo: "<<endl;
 cin >> precio2;
-cout << "Ingrese el precio del tercer artículo: "<<endl;
+cout << "Ingrese el precio del tercer articulo: "<<endl;
 cin >> precio3;
 
 double total;

@@ -7,7 +7,7 @@
 
 
 
-void ejer4();
+void eje4();
 
 
 #endif //EJE4_H

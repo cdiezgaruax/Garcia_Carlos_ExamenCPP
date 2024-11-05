@@ -25,5 +25,5 @@ if (precio1 <= precio2 && precio1 <= precio3) { //primero vemos si el precio 1 e
     total = precio1 + precio2; //si no es ninguno de los anteriores sumamos los otros dos precios
 }
 
-cout << "El total a pagar bajo la promoción '3 por 2' es: " << total << endl;
+cout << "El total a pagar bajo la promocion '3 por 2' es: " << total << endl;
 }

@@ -1,26 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-    /** Ejercicio 1: Identificación de Número Positivo, Negativo o Cero
-    Escribe un programa en C
-    ++que
-    solicite al usuario ingresar un número entero
-    .
-    El programa deberá analizar el número ingresado e imprimir en pantalla si el número es
-    "positivo", "negativo"
-    o
-    "cero".
-**/
-    double numero;
-    cout << "Ingrese un numero: "<<endl;
-    cin >> numero;
-    if (numero > 0){
-        cout << "El numero es positivo." << endl;
-    } else if (numero < 0){
-        cout << "El numero es negativo." << endl;
-    } else {
-        cout << "El numero es cero." << endl;
-    }
 
     /**Ejercicio 2: Día de la Semana
     Crea un programa en C++ que solicite al usuario ingresar un número del 1 al 7. El programa deberá imprimir el nombre del día de la semana correspondiente al número ingresado (por ejemplo, 1 para lunes, 2 para martes, ..., 7 para domingo).

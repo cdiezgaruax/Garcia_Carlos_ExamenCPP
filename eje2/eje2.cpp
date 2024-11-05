@@ -32,4 +32,8 @@ case 6:
 case 7:
     cout << "Domingo" << endl;
     break;
-    }
+default:
+    cout << "Número inválido. Por favor ingrese un número del 1 al 7." << endl;
+    break;
+}
+}
